@@ -1,0 +1,2 @@
+[workspace]
+members = ["epbf-signer", "epbf-signer-common", "xtask"]
